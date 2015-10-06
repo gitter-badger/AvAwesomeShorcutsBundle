@@ -1,6 +1,8 @@
 AvAwesomeShortcutsBundle
 =======================
 
+[![Join the chat at https://gitter.im/AppVentus/AvAwesomeShorcutsBundle](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AppVentus/AvAwesomeShorcutsBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installation
 
 Cette procédure décrit l'installation du projet pour une utilisation dans une machine virtuelle vagrant.
